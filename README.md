@@ -4,9 +4,6 @@ Sensores con Arduino | ESP8622
 
 Esta agrupacion de proyectos provee ejemplos recopilados y modificados segun la necesidad del usuario.
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
-
-
 ## Features
 - Arduino
 - ESP8622
